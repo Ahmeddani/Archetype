@@ -4,7 +4,7 @@ The following archetypes are available in this repository:
 
 | archetype name | description |
 | -------------- | ----------- |
-| te-simple      | Coming soon... |
+| te-basic       | This archetype creates a standard Maven directory structure populated with placeholder files |
 | te-web         | Coming soon... |
 | te-spring-mvc  | This archetype creates a basic web application that includes the Spring MVC libraries and a Hello World example that includes Spring controllers and Spring MVC configuration |
 
