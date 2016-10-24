@@ -5,6 +5,7 @@ The following archetypes are available in this repository:
 | archetype name | description |
 | -------------- | ----------- |
 | te-basic       | This archetype creates a standard Maven directory structure populated with placeholder files |
+| te-spring-jdbc | This archetype creates a basic database application that includes the Spring JDBC library and the PostgreSQL JDBC driver |
 | te-web         | Coming soon... |
 | te-spring-mvc  | This archetype creates a basic web application that includes the Spring MVC libraries and a Hello World example that includes Spring controllers and Spring MVC configuration |
 

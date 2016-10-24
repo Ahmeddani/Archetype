@@ -12,6 +12,12 @@
         </archetype>
         <archetype>
             <groupId>com.techelevator</groupId>
+            <artifactId>te-spring-jdbc</artifactId>
+            <version>1.0.0</version>
+            <description>This archetype creates a basic database application that includes the Spring JDBC libraries</description>
+        </archetype>
+        <archetype>
+            <groupId>com.techelevator</groupId>
             <artifactId>te-basic</artifactId>
             <version>1.0.0</version>
             <description>This archetype creates a standard Maven directory structure populated with placeholder files</description>
