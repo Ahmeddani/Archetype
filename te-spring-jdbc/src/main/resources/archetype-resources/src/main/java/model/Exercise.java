@@ -1,4 +1,4 @@
-package com.techelevlator.model;
+package com.techelevator.model;
 
 public class Exercise {
 

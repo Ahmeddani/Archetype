@@ -1,9 +1,9 @@
-package com.techelevlator;
+package com.techelevator;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 
-import com.techelevlator.model.ExerciseDAO;
-import com.techelevlator.model.jdbc.JDBCExerciseDAO;
+import com.techelevator.model.ExerciseDAO;
+import com.techelevator.model.jdbc.JDBCExerciseDAO;
 
 public class ExerciseApp {
 
