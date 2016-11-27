@@ -1,4 +1,4 @@
-package com.techelevlator.model.jdbc;
+package com.techelevator.model.jdbc;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import javax.sql.DataSource;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import com.techelevlator.model.Exercise;
-import com.techelevlator.model.ExerciseDAO;
+import com.techelevator.model.Exercise;
+import com.techelevator.model.ExerciseDAO;
 
 public class JDBCExerciseDAO implements ExerciseDAO {
 
